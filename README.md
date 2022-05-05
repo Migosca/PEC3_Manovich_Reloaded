@@ -24,7 +24,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### [](https://github.com/mgea/PEC3_Manovich_Reloaded#referencias-y-bibliograf%C3%ADa)Referencias y Bibliografía
 
 -   Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
-
-----------
-
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY  [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/)
