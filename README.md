@@ -37,13 +37,13 @@ En el caso **Dear Angelica**, el trabajo se hizo completamente con dibujo a trav
 
 Para llevarlo a cabo se trazó cada imagen que junto el relato, se iba fusionando o mezclando los medios en el campo 3D, al reproducirlo se formaba la magia, la hibridación de todos los medios que incorporaba el proyecto se recopilaba en uno solo.
 
-Haciendo una exposición inmersiva, con arte digital, a partir de una herramienta llamada Quill, que permite escribir en lápiz, oleo o acuarela según el algoritmo aplicado, en el espacio virtual, en la interfaz de usuario inmersiva, haciéndolo así una nueva forma de interactuar con el medio o “conjunto de datos” a consecuencia de la “softwarización” de las técnicas y herramientas de la pintura, del arte y del dibujo.
+Haciendo una exposición inmersiva, con arte digital, a partir de la herramienta Quill, que permite escribir en lápiz, oleo o acuarela según el algoritmo aplicado, en el espacio virtual, en la interfaz de usuario inmersiva, haciéndolo así una nueva forma de interactuar con el medio o “conjunto de datos” a consecuencia de la “softwarización” de las técnicas y herramientas de la pintura, del arte y del dibujo.
 
-Se cuenta la historia a través de imágenes, donde van apareciendo con pinceladas en óleo a medida que transcurre la narrativa, las imágenes parecen que cobren vida y van cambiando según la historia, junto con la tipografía que también se van desdibujando a medida que avanza la narrativa (dialogo), todo se origina en una animación (video) donde nosotros somos la cámara virtual y podemos detener en cualquier momento la película y fijarnos más en las zonas donde queramos.
+Se cuenta la historia a través de imágenes, donde van apareciendo con pinceladas en óleo a medida que transcurre la narrativa, las imágenes parecen que cobren vida y van cambiando según la historia, junto con la tipografía que también se van desdibujando a medida que avanza la narrativa, todo se origina en una animación donde nosotros somos la cámara virtual y podemos detener en cualquier momento la película y fijarnos más en las zonas donde queramos.
 
 Todo va fluyendo a medida que se borra un trazado y aparece otro haciéndote seguir la historia todo en el campo de visualización 3D, el mundo virtual hace que entres de lleno y te hace participe, se crea la magia de los cambios que se van produciendo.
 
-Todas estas técnicas de diferentes medios, se unen en uno solo, adquiriendo así  las propiedades de la pintura y animación, gracias al metamedio ordenador, a consecuencia se produce la hibridación entre estos medios y da como resultado un nuevo metalenguaje, diferente a lo que antes conocíamos.
+Todas estas técnicas de diferentes medios, se unen en uno solo, adquiriendo así  las propiedades de la pintura y animación, gracias al metamedio ordenador, a consecuencia se produce la hibridación entre estos medios y da como resultado un nuevo **metalenguaje**, diferente a lo que antes conocíamos.
 
 Una vez creadas estas nuevas técnicas se podrán utilizar en otros medios y continuar así con el proceso de la hibridación dando como resultado la multiplicación de diferentes técnicas.
 ### [](https://github.com/mgea/PEC3_Manovich_Reloaded#referencias-y-bibliograf%C3%ADa)Referencias y Bibliografía
