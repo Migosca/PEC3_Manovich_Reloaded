@@ -41,6 +41,8 @@ Haciendo una exposición inmersiva, con arte digital, a partir de la herramienta
 
 Se cuenta la historia a través de imágenes, donde van apareciendo con pinceladas en óleo a medida que transcurre la narrativa, las imágenes parecen que cobren vida y van cambiando según la historia, junto con la tipografía que también se van desdibujando a medida que avanza la narrativa, todo se origina en una animación donde nosotros somos la cámara virtual y podemos detener en cualquier momento la película y fijarnos más en las zonas donde queramos.
 
+![giphy](https://user-images.githubusercontent.com/104562142/167853017-d07d19eb-e019-4836-bc9b-e480b768e490.gif)
+
 Todo va fluyendo a medida que se borra un trazado y aparece otro haciéndote seguir la historia todo en el campo de visualización 3D, el mundo virtual hace que entres de lleno y te hace participe, se crea la magia de los cambios que se van produciendo.
 
 Todas estas técnicas de diferentes medios, se unen en uno solo, adquiriendo así  las propiedades de la pintura y animación, gracias al metamedio ordenador, a consecuencia se produce la hibridación entre estos medios y da como resultado un nuevo **metalenguaje**, diferente a lo que antes conocíamos.
