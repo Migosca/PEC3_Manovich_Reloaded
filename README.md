@@ -33,17 +33,15 @@ La interfaz de usuario y el software se fusionan y muestran una experiencia tota
 
 Lo mismo sucede con la realidad virtual, que como si se tratara de un envoltorio para que otros medios puedan fluir , quedan totalmente difuminados, sin poder distinguir que lo que vemos y oímos es un video o unas imágenes, incluso las voces de la narración que envuelven el amplio campo virtual, es omnipresente, y fluye en armonía engañando a nuestros oídos, haciéndonos pensar que estamos en otro mundo.
 
-En el caso **Dear Angelica**, el trabajo se hizo completamente con dibujo a través de una nueva herramienta llamada “Quill” que se hizo exclusivamente para realizar el proyecto de Dear Angelica, dentro de la RV. El software simula la técnica de pintura y animación 3D para crear e interaccionar con los datos de los medios.
+En el caso **Dear Angelica**, el trabajo se hizo completamente con dibujo a través de una nueva herramienta llamada **“Quill”** que se hizo exclusivamente para realizar el proyecto de Dear Angelica, dentro de la RV. El software simula la técnica de pintura y animación 3D para crear e interaccionar con los datos de los medios.
 
 Para llevarlo a cabo se trazó cada imagen que junto el relato, se iba fusionando o mezclando los medios en el campo 3D, al reproducirlo se formaba la magia, la hibridación de todos los medios que incorporaba el proyecto se recopilaba en uno solo.
 
-Haciendo una exposición inmersiva, con arte digital, a partir de la herramienta Quill, que permite escribir en lápiz, oleo o acuarela según el algoritmo aplicado, en el espacio virtual, en la interfaz de usuario inmersiva, haciéndolo así una nueva forma de interactuar con el medio o “conjunto de datos” a consecuencia de la “softwarización” de las técnicas y herramientas de la pintura, del arte y del dibujo.
+Haciendo una exposición inmersiva, con arte digital, a partir de la herramienta Quill, que permite escribir en lápiz, oleo o acuarela según el algoritmo aplicado, en el espacio virtual, en la interfaz de usuario inmersiva, haciéndolo así una nueva forma de interactuar con el medio o “conjunto de datos” a consecuencia de la softwarización de las técnicas y herramientas de la pintura, del arte y del dibujo.
 
-Se cuenta la historia a través de imágenes, donde van apareciendo con pinceladas en óleo a medida que transcurre la narrativa, las imágenes parecen que cobren vida y van cambiando según la historia, junto con la tipografía que también se van desdibujando a medida que avanza la narrativa, todo se origina en una animación donde nosotros somos la cámara virtual y podemos detener en cualquier momento la película y fijarnos más en las zonas donde queramos.
+Se cuenta la historia a través de imágenes, donde van apareciendo con pinceladas en óleo a medida que transcurre la narrativa, las imágenes parecen que cobren vida y van cambiando según la historia, junto con la tipografía que también se va desdibujando a medida que avanza la historia, todo esto sucede en el campo de visualización 3D, el mundo virtual hace que entres de lleno y te hace participe de la magia que se produce, todo se origina en una animación donde nosotros somos la cámara virtual y podemos detener en cualquier momento la película y fijarnos más en las zonas donde queramos.
 
 ![giphy](https://user-images.githubusercontent.com/104562142/167853017-d07d19eb-e019-4836-bc9b-e480b768e490.gif)
-
-Todo va fluyendo a medida que se borra un trazado y aparece otro haciéndote seguir la historia todo en el campo de visualización 3D, el mundo virtual hace que entres de lleno y te hace participe, se crea la magia de los cambios que se van produciendo.
 
 Todas estas técnicas de diferentes medios, se unen en uno solo, adquiriendo así  las propiedades de la pintura y animación, gracias al metamedio ordenador, a consecuencia se produce la hibridación entre estos medios y da como resultado un nuevo **metalenguaje**, diferente a lo que antes conocíamos.
 
