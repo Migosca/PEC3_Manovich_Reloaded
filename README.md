@@ -49,3 +49,8 @@ Una vez creadas estas nuevas técnicas se podrán utilizar en otros medios y con
 ### [](https://github.com/mgea/PEC3_Manovich_Reloaded#referencias-y-bibliograf%C3%ADa)Referencias y Bibliografía
 
 -   Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
+-   https://blog.hubspot.es/service/ejemplos-realidad-aumentada
+-   https://www.commonsensemedia.org/es/articulos/guia-para-padres-sobre-snapchat
+-   https://www.oculus.com/story-studio/films/dear-angelica/
+-   https://www.microsiervos.com/archivo/ordenadores/como-funcionan-filtros-snapchat-apps.html
+
