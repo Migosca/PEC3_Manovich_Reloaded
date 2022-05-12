@@ -11,7 +11,7 @@ Fecha:
 
 A consecuencia de la conversión de los medios analógicos a los nuevos medios después de la softwarización de las herramientas de los medios físicos, dotándolos de lenguaje digital a causa de la representación numérica, se pudieron entender y así sustituir los datos culturales, el hardware o los materiales utilizados encargados de dar forma o creación, como por ejemplo el papel o el lienzo por **estructuras de datos** y los **algoritmos** haciendo de pincel, goma o lápiz sobre cualquier tipo de lienzo, son los encargados de llevar a cabo el proceso de la técnica específica de cada medio.
 
-El nuevo lenguaje informático, facilitó los procesos y técnicas del software de medios para crear mediante algoritmos nuevas técnicas que mezclaban o hacían un remix de los medios digitalizados formando la hibridación, nuevos medios que fluyen en un mismo medio.
+El nuevo lenguaje informático, facilitó los procesos y técnicas del software de medios para crear mediante algoritmos nuevas técnicas que mezclaban o hacían un remix de los medios digitalizados formando la hibridación, nuevos medios que fluyen en un mismo medio, convirtiendose en una nueva especie.
 
 La cultura contemporánea está en constante hibridación, creación, y evolución, así lo refleja las redes sociales y sus publicaciones, desde recetas de donuts hechos con espaguetis a cruasanes rellenos de sushi, bailes con remezclas de  otros estilos y también podemos decir lo mismo con la música.
 
