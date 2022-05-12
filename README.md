@@ -25,7 +25,7 @@ La aplicación de red social **Snapchat** utiliza la realidad aumentada y la int
 
 Una persona ahora puede recurrir al software de aplicación móvil y descubrir el cambio que se produce al hacerse un corte, tinte o un peinado diferente, antes de poder llevarlo a cabo, muy útil si tienes dudas o no te decides a realizarlo.
 
-La APP utiliza la inteligencia artificial para la detección del rostro junto con los algoritmos que calculan y crean a través de puntos y líneas el contorno del rostro o las partes en las que se quiera incidir, creando una máscara donde se incorpora los objetos 3D o filtros que se incrustan en la pantalla, sustituyendo las partes seleccionadas y haciendo que lo digital y lo real fluyan.
+La app utiliza la inteligencia artificial para la detección del rostro junto con los algoritmos que calculan y crean a través de puntos y líneas las partes en las que se quiera incidir, ojos, labios, pelo o toda la cara, creando una máscara donde se incorpora los objetos 3D o filtros que se incrustan en la pantalla, sustituyendo las partes seleccionadas y haciendo que lo digital y lo real se mezclen.
 
 La interfaz de usuario y el software se fusionan y muestran una experiencia totalmente nueva,  creando encima de la imagen de la cámara en tiempo real unas capas de objetos en 3D y hace una reconfiguración de como veíamos solo el medio de video o fotografía. Es decir, los datos incrustados encima de la imagen hace que se vea como uno solo, lo que lo hace un caso claro de hibridación.
 
