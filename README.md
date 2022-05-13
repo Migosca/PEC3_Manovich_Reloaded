@@ -49,10 +49,6 @@ Una vez creadas estas nuevas técnicas se podrán utilizar en otros medios y con
 
 “Esto, para mí, es la esencia de la nueva fase del metamedio ordenador que estamos viviendo. Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles.”
 
-Pasaje de
-El software toma el mando
-Lev Manovich
-Es posible que este material esté protegido por derechos de autor.
 ### [](https://github.com/mgea/PEC3_Manovich_Reloaded#referencias-y-bibliograf%C3%ADa)Referencias y Bibliografía
 
 -   Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
