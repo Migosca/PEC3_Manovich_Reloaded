@@ -27,7 +27,7 @@ Una persona ahora puede recurrir al software de aplicación móvil y descubrir e
 
 Todo esto se lleva a cabo por la app, que utiliza la inteligencia artificial para la detección del rostro junto con los algoritmos que calculan y crean a través de puntos y líneas las partes en las que se quiera incidir, ojos, labios, pelo o toda la cara, creando una máscara donde se incorpora los objetos 3D o filtros que se incrustan en la pantalla, sustituyendo las partes seleccionadas y haciendo que lo digital y lo real se mezclen. En el que uno puede girar la cabeza y ver como el contenido 3D digitalizado se remodela con la parte de tu rostro en tiempo real, como si formara parte de tí. 
 
-Por tanto, la interfaz de usuario y el software se fusionan y muestran una experiencia totalmente nueva, reconfigurando de como veíamos solo el medio de video o fotografía. Antes de la softwarización, todo esto solo era posible sobreponiendo una foto encima de otra, pero con la incorporación de diferentes herramientas y técnicas al metamedio, primero se consiguió la multimedia, pudiendo pegar un sticker encima de una foto digital, pero esto no producia un cambio significativo en el medio, simplemente fluian, pero con la suma, multiplicación y mezcla de estas técnicas, se formaron nuevas especies de herramientas de medios, un nuevo lenguaje, en el caso de Snapchat, los datos incrustados encima de la imagen hace que se vea como uno solo, la imagen de la cámara adquiere la animacion 3D producida por el ordenador y esta a la vez redefine lo que se muestra, lo que lo hace un caso claro de hibridación.
+Por tanto, la interfaz de usuario y el software se fusionan y muestran una experiencia totalmente nueva, reconfigurando de como veíamos solo el medio de video o fotografía. Antes de la softwarización, todo esto solo era posible sobreponiendo una foto encima de otra, pero con la incorporación de diferentes herramientas y técnicas de los diferentes medios al metamedio, primero se consiguió la multimedia, pudiendo pegar un sticker encima de una foto digital, pero esto no producia un cambio significativo en el medio, simplemente fluian por separado, pero con la suma, multiplicación y mezcla de estas técnicas, se formaron nuevas especies de herramientas de medios, un nuevo lenguaje, en el caso de Snapchat, los datos incrustados encima de la imagen hace que se vea como uno solo, la imagen de la cámara adquiere la animacion 3D producida por el ordenador y esta a la vez redefine lo que se muestra, lo que lo hace un caso claro de hibridación.
 
 **CASO 2: DEAR ANGELICA**
 
@@ -46,6 +46,13 @@ Se cuenta la historia a través de imágenes, donde van apareciendo con pincelad
 Todas estas técnicas de diferentes medios, se unen en uno solo, adquiriendo así  las propiedades de la pintura y animación, gracias al metamedio ordenador, a consecuencia se produce la hibridación entre estos medios y da como resultado un nuevo **metalenguaje**, diferente a lo que antes conocíamos.
 
 Una vez creadas estas nuevas técnicas se podrán utilizar en otros medios y continuar así con el proceso de la hibridación dando como resultado la multiplicación de diferentes técnicas.
+
+“Esto, para mí, es la esencia de la nueva fase del metamedio ordenador que estamos viviendo. Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles.”
+
+Pasaje de
+El software toma el mando
+Lev Manovich
+Es posible que este material esté protegido por derechos de autor.
 ### [](https://github.com/mgea/PEC3_Manovich_Reloaded#referencias-y-bibliograf%C3%ADa)Referencias y Bibliografía
 
 -   Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
