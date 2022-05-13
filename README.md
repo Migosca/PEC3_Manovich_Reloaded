@@ -21,7 +21,7 @@ De este caso, de las apps de realidad aumentada y del proyecto Dear Angelica a t
 
 **CASO 1: SNAPCHAT**
 
-La aplicación de red social **Snapchat** utiliza la realidad aumentada y la inteligencia artificial para ofrecer un sinfín de opciones con una enorme biblioteca de filtros que almacena el software, haciendo posible colocarte orejas de gato, diferentes caras de animales, incluso la Torre Eiffel detrás de tus fotos, también es posible agregar sonidos, texto y emojis a nuestras fotografías o videos y acceder a juegos, noticias y series y por supuesto compartirlo con los demás.
+La aplicación de red social **Snapchat** a parte de disponer del soporte para el envio de archivos multimedia, utiliza la realidad aumentada y la inteligencia artificial para ofrecer un sinfín de opciones con una enorme biblioteca de filtros que almacena el software, haciendo posible colocarte orejas de gato, diferentes caras de animales, incluso la Torre Eiffel detrás de tus fotos, también es posible agregar sonidos, texto y emojis a nuestras fotografías o videos, un claro ejemplo de multimedia y acceder a juegos, noticias y series y por supuesto compartirlo con los demás.
 
 Una persona ahora puede recurrir al software de aplicación móvil y descubrir el cambio que se produce al hacerse un corte, tinte o un peinado diferente, antes de poder llevarlo a cabo, muy útil si tienes dudas o no te decides a realizarlo. También puedes matar la curiosidad de saber como seras de aquí a unos años, ver que apariencia tendrias si fueras del sexo contrario y mucho más.
 
