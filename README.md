@@ -51,9 +51,10 @@ Una vez creadas estas nuevas técnicas se podrán utilizar en otros medios y con
 
 ### [](https://github.com/mgea/PEC3_Manovich_Reloaded#referencias-y-bibliograf%C3%ADa)Referencias y Bibliografía
 
+-   Alvy (2017) **Cómo funcionan los filtros de Snapchat y de otras apps similares**. En microsiervos.[en línea][consulta: 2 de Mayo de 2022]. Disponible en:
+https://www.microsiervos.com/archivo/ordenadores/como-funcionan-filtros-snapchat-apps.html
+-   Elgersma, Christine. (2021). **Guía para padres sobre Snapchat**. En common sense media.[en línea][consulta: 6 de Mayo de 2022]. Disponible en:    (https://www.commonsensemedia.org/es/articulos/guia-para-padres-sobre-snapchat
 -   Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
--   https://blog.hubspot.es/service/ejemplos-realidad-aumentada
--   https://www.commonsensemedia.org/es/articulos/guia-para-padres-sobre-snapchat
--   https://www.oculus.com/story-studio/films/dear-angelica/
--   https://www.microsiervos.com/archivo/ordenadores/como-funcionan-filtros-snapchat-apps.html
+-   MetaQuest **Dear Angelica** [en línia][consulta: 7 de Mayo de 2022]. Disponible en: https://www.oculus.com/story-studio/films/dear-angelica/
+-   Moreno, Juanita. (2021). **Qué es la realidad aumentada y 20 ejemplos de uso exitoso en empresas**. En Hubspot.[en línea][consulta: 4 de Mayo de 2022]. Disponible en: https://blog.hubspot.es/service/ejemplos-realidad-aumentada
 
