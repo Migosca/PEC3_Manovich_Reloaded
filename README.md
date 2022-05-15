@@ -67,3 +67,4 @@ https://www.microsiervos.com/archivo/ordenadores/como-funcionan-filtros-snapchat
 - Moreno, Juanita. (2021). **Qué es la realidad aumentada y 20 ejemplos de uso exitoso en empresas**. En Hubspot.[en línea][consulta: 4 de Mayo de 2022]. Disponible en: https://blog.hubspot.es/service/ejemplos-realidad-aumentada
 - Virtual Reality Animation GIF By Oculus.[en línea][consulta: 11 de Mayo de 2022]. Disponible en: https://media.giphy.com/media/xUA7aMLgZOgxAmVHNu/giphy.gif
 - Snapchat GIF By Mashable.[en línea][consulta: 11 de mayo de 2022]. Disponible en: https://giphy.com/gifs/mashable-snapchat-l41lIrz9J72VqFsKQ
+ 
