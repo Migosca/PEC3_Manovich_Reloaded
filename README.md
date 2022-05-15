@@ -55,7 +55,7 @@ Una vez creadas estas nuevas técnicas se podrán utilizar en otros medios y con
 
 > *Esto, para mí, es la esencia de la nueva fase del metamedio ordenador que estamos viviendo. Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles.(Manovich, 2013)*
 ******
-A consecuencia de este proceso que cada día va fluyendo cada vez más entre 
+A causa de este proceso se otorga al software más libertad para la creación digital, aunque en la actualidad ya existen claros casos debido a la hibridación, seguramente solo estamos en el principio, en la punta del iceberg de lo que nos queda por ver, lo que la propagación de las técnicas de los medios entre especies nos puede llegar a ofrecer, solo los sabremos en un futuro prometedor, de momento el resueltado de este metalenguaje que produce nos hace abrir la mente a horizontes inimaginables.
 
 ### [](https://github.com/mgea/PEC3_Manovich_Reloaded#referencias-y-bibliograf%C3%ADa)Referencias y Bibliografía
 
@@ -65,6 +65,5 @@ https://www.microsiervos.com/archivo/ordenadores/como-funcionan-filtros-snapchat
 - Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
 - MetaQuest **Dear Angelica** [en línia][consulta: 7 de Mayo de 2022]. Disponible en: https://www.oculus.com/story-studio/films/dear-angelica/
 - Moreno, Juanita. (2021). **Qué es la realidad aumentada y 20 ejemplos de uso exitoso en empresas**. En Hubspot.[en línea][consulta: 4 de Mayo de 2022]. Disponible en: https://blog.hubspot.es/service/ejemplos-realidad-aumentada
-- Virtual Reality Animation GIF By Oculus.[en línea][consulta: 11 de Mayo de 2022]. Disponible en: https://media.giphy.com/media/xUA7aMLgZOgxAmVHNu/giphy.gif
 - Snapchat GIF By Mashable.[en línea][consulta: 11 de mayo de 2022]. Disponible en: https://giphy.com/gifs/mashable-snapchat-l41lIrz9J72VqFsKQ
- 
+- Virtual Reality Animation GIF By Oculus.[en línea][consulta: 11 de Mayo de 2022]. Disponible en: https://media.giphy.com/media/xUA7aMLgZOgxAmVHNu/giphy.gif
