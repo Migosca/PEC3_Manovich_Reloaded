@@ -59,11 +59,11 @@ A consecuencia de este proceso que cada día va fluyendo cada vez más entre
 
 ### [](https://github.com/mgea/PEC3_Manovich_Reloaded#referencias-y-bibliograf%C3%ADa)Referencias y Bibliografía
 
--   Alvy (2017) **Cómo funcionan los filtros de Snapchat y de otras apps similares**. En microsiervos.[en línea][consulta: 2 de Mayo de 2022]. Disponible en:
+- Alvy (2017) **Cómo funcionan los filtros de Snapchat y de otras apps similares**. En microsiervos.[en línea][consulta: 2 de Mayo de 2022]. Disponible en:
 https://www.microsiervos.com/archivo/ordenadores/como-funcionan-filtros-snapchat-apps.html
--   Elgersma, Christine. (2021). **Guía para padres sobre Snapchat**. En common sense media.[en línea][consulta: 6 de Mayo de 2022]. Disponible en:    (https://www.commonsensemedia.org/es/articulos/guia-para-padres-sobre-snapchat
--   Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
--   MetaQuest **Dear Angelica** [en línia][consulta: 7 de Mayo de 2022]. Disponible en: https://www.oculus.com/story-studio/films/dear-angelica/
--   Moreno, Juanita. (2021). **Qué es la realidad aumentada y 20 ejemplos de uso exitoso en empresas**. En Hubspot.[en línea][consulta: 4 de Mayo de 2022]. Disponible en: https://blog.hubspot.es/service/ejemplos-realidad-aumentada
--   Virtual Reality Animation GIF By Oculus.[en línea][consulta: 11 de Mayo de 2022]. Disponible en: https://media.giphy.com/media/xUA7aMLgZOgxAmVHNu/giphy.gif
--   Snapchat GIF By Mashable.[en línea][consulta: 11 de mayo de 2022]. Disponible en: https://giphy.com/gifs/mashable-snapchat-l41lIrz9J72VqFsKQ
+- Elgersma, Christine. (2021). **Guía para padres sobre Snapchat**. En common sense media.[en línea][consulta: 6 de Mayo de 2022]. Disponible en:    (https://www.commonsensemedia.org/es/articulos/guia-para-padres-sobre-snapchat
+- Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
+- MetaQuest **Dear Angelica** [en línia][consulta: 7 de Mayo de 2022]. Disponible en: https://www.oculus.com/story-studio/films/dear-angelica/
+- Moreno, Juanita. (2021). **Qué es la realidad aumentada y 20 ejemplos de uso exitoso en empresas**. En Hubspot.[en línea][consulta: 4 de Mayo de 2022]. Disponible en: https://blog.hubspot.es/service/ejemplos-realidad-aumentada
+- Virtual Reality Animation GIF By Oculus.[en línea][consulta: 11 de Mayo de 2022]. Disponible en: https://media.giphy.com/media/xUA7aMLgZOgxAmVHNu/giphy.gif
+- Snapchat GIF By Mashable.[en línea][consulta: 11 de mayo de 2022]. Disponible en: https://giphy.com/gifs/mashable-snapchat-l41lIrz9J72VqFsKQ
