@@ -19,7 +19,7 @@ Las apps del móvil junto con la evolución tecnológica, también lo han reflej
 
 De este caso, de las apps de realidad aumentada y del proyecto Dear Angelica a través de la realidad virtual es en lo que nos centraremos en los siguientes apartados, dos casos claros de hibridación que ahora veremos.
 
-**CASO 1: SNAPCHAT**
+### **CASO 1: SNAPCHAT**
 
 La aplicación de red social **Snapchat** a parte de disponer del soporte para el envio de archivos multimedia, utiliza la realidad aumentada y la inteligencia artificial para ofrecer un sinfín de opciones con una enorme biblioteca de filtros que almacena el software, haciendo posible colocarte orejas de gato, diferentes caras de animales, incluso la Torre Eiffel detrás de tus fotos, también es posible agregar sonidos, texto y emojis a nuestras fotografías o videos, un claro ejemplo de multimedia y acceder a juegos, noticias y series y por supuesto compartirlo con los demás.
 <p align="center">
@@ -32,7 +32,7 @@ Todo esto se lleva a cabo por la app, que utiliza la inteligencia artificial par
 
 Por tanto, la interfaz de usuario y el software se fusionan y muestran una experiencia totalmente nueva, reconfigurando de como veíamos solo el medio de video o fotografía. Antes de la softwarización, todo esto solo era posible sobreponiendo una foto encima de otra, pero con la incorporación de diferentes herramientas y técnicas de los diferentes medios al metamedio, primero se consiguió la multimedia, pudiendo pegar un sticker encima de una foto digital, pero esto no producia un cambio significativo en el medio, simplemente fluian por separado, pero con la suma, multiplicación y mezcla de estas técnicas, se formaron nuevas especies de herramientas de medios, un nuevo lenguaje, en el caso de Snapchat, los datos incrustados encima de la imagen hace que se vea como uno solo, la imagen de la cámara adquiere la animacion 3D producida por el software y esta a la vez redefine lo que se muestra en ella, una fusión por parte de la animación y de la imagen de la cámara, lo que lo hace un caso claro de hibridación.
 *******
-**CASO 2: DEAR ANGELICA**
+### **CASO 2: DEAR ANGELICA**
 
 Lo mismo sucede con la realidad virtual, que como si se tratara de un envoltorio para que otros medios puedan fluir , quedan totalmente difuminados, sin poder distinguir que lo que vemos y oímos es un video o unas imágenes, incluso las voces de la narración que envuelven el amplio campo virtual, es omnipresente, y fluye en armonía engañando a nuestros oídos, haciéndonos pensar que estamos en otro lugar.
 
