@@ -55,7 +55,7 @@ Una vez creadas estas nuevas técnicas se podrán utilizar en otros medios y con
 
 > *Esto, para mí, es la esencia de la nueva fase del metamedio ordenador que estamos viviendo. Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles.(Manovich, 2013)*
 ******
-A causa de este proceso se otorga al software más libertad para la creación digital, aunque en la actualidad ya existen claros casos debido a la hibridación, seguramente solo estamos en el principio, en la punta del iceberg de lo que nos queda por ver, lo que la propagación de las técnicas de los medios entre especies nos puede llegar a ofrecer, solo lo sabremos en un futuro prometedor, de momento el resueltado de este metalenguaje que produce nos hace abrir la mente a horizontes inimaginables.
+A causa de este proceso se otorga al software más libertad para la creación digital, aunque en la actualidad ya existen claros casos debido a la hibridación, seguramente solo estamos en el principio, en la punta del iceberg de lo que nos queda por ver, lo que la propagación de las técnicas de los medios entre especies nos puede llegar a ofrecer, solo lo sabremos en un futuro prometedor, de momento el resultado de este metalenguaje que produce nos hace abrir la mente a horizontes inimaginables.
 
 ### [](https://github.com/mgea/PEC3_Manovich_Reloaded#referencias-y-bibliograf%C3%ADa)Referencias y Bibliografía
 
